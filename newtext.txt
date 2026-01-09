@@ -1,0 +1,23 @@
+{
+  "omniscriptId": "0jNf6000000LuiLEAS",
+  "language": "English",
+  "type": "EDUApplicationTest",
+  "subType": "EDUApplicationTest",
+  "sId": "0jNf6000000LuiLEAS",
+  "runMode": "preview",
+  "theme": "lightning",
+  "LanguageCode": "en_US",
+  "userProfile": "System Administrator",
+  "timeStamp": "2026-01-07T18:13:57.360Z",
+  "userTimeZoneName": "Asia/Kolkata",
+  "userTimeZone": "330",
+  "userCurrencyCode": "INR",
+  "userName": "nilishalaxmikantpatil04-03wr@force.com",
+  "userId": "005f6000003GZ1kAAG",
+  "omniProcessId": "0jNf6000000LuiLEAS",
+  "localTimeZoneName": "Asia/Calcutta",
+  "Step1": {
+    "LevelOfStudy": "Bachelor's Degree",
+    "Discipline": "Data Science & AI"
+  }
+}
